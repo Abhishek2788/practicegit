@@ -1,2 +1,2 @@
 # practicegit
-Hi! My Nmae is Abhishek Jha.
+Hi! My Name is Abhishek Jha.
